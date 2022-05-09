@@ -1,3 +1,9 @@
+# To do list project
+
+### Links
+
+- Live Site URL: https://clever-lily-af46a8.netlify.app/
+
 # vite-todo-app
 
 This template should help get you started developing with Vue 3 in Vite.
